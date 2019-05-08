@@ -1,6 +1,6 @@
 # frontend voor designers
 
-In het vak Frontend voor Designers leer je hoe je met HTML en CSS, en een beetje Javascript, snel en eenvoudig prototypes kan maken om je ontwerp ideeën te testen in een browser. We gaan animeren, responsive layouts uitproberen en interactie coderen ...
+Opdracht 1: Ik had heel veel moeite met de code, ik moet opnieuw voor mezelf gaan verdiepen. Ik heb de 'flexbox' functie niet helemaal begrepen waardoor ik de layout niet kon verbeteren.
 
 Dit is de [online url](https://koopreynders.github.io/frontendvoordesigners/) met de opdrachten om te kunnen bekijken en testen in een browser.
 
